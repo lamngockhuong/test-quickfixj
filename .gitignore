@@ -1,0 +1,14 @@
+.idea/
+target/
+
+FIX.4.4-CLIENT1-FixServer.body
+FIX.4.4-CLIENT1-FixServer.header
+FIX.4.4-CLIENT1-FixServer.senderseqnums
+FIX.4.4-CLIENT1-FixServer.session
+FIX.4.4-CLIENT1-FixServer.targetseqnums
+FIX.4.4-FixServer-CLIENT1.body
+FIX.4.4-FixServer-CLIENT1.header
+FIX.4.4-FixServer-CLIENT1.senderseqnums
+FIX.4.4-FixServer-CLIENT1.session
+FIX.4.4-FixServer-CLIENT1.targetseqnums
+
